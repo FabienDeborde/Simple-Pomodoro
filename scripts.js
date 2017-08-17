@@ -1,7 +1,7 @@
 $(document).ready(function() {
   var seconds = 0;
-  var initialTimer = [25, 0];
-  var timer = [25, 0];
+  var initialTimer = [25, 5];
+  var timer = [25, 5];
   var timerContainer = $('#clockTime');
 
   // Handle the sound player
